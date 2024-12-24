@@ -73,6 +73,10 @@ If you are using Visual Studio Code, consider installing the following extension
    python scripts/main.py
    ```
 
+## HuggingFace Space
+You can play with out model directly at our [HuggingFace Space](https://huggingface.co/spaces/Danhelo/Weather_classifier). It 
+allows for you to upload an image and see the model's road weather classification.
+
 ## Contributing
 
 Contributions are welcome! Please create a new branch for your feature or bug fix before submitting a pull request. Feel free to open an issue to discuss changes or improvements.
