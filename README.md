@@ -74,7 +74,7 @@ If you are using Visual Studio Code, consider installing the following extension
    ```
 
 ## HuggingFace Space
-You can play with out model directly at our [HuggingFace Space](https://huggingface.co/spaces/Danhelo/Weather_classifier). It 
+You can play with our model directly at our [HuggingFace Space](https://huggingface.co/spaces/Danhelo/Weather_classifier). It 
 allows for you to upload an image and see the model's road weather classification.
 
 ## Contributing
